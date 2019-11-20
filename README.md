@@ -22,6 +22,11 @@ Then install the requirements using:
 ```
 pip3 install -r requirements.txt
 ```
+Then:
+```
+cd 'mate-choice-and-menopause'
+```
+to get into the file.
 
 ## Usage
 Once you've installed the requirements, you can now edit and run the model. 
